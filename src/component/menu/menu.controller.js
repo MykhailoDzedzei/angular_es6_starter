@@ -1,7 +1,7 @@
 class menuController {
   constructor() {
 
-    this.hello = 'misha';
+    this.hello = 'misha Dzedze';
     
   }
 }
